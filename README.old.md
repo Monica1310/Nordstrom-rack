@@ -1,28 +1,66 @@
-# rack
-# In order to run the website user have to download some important libraries in his Terminal
+## Nordstrom-rack Website Clone
 
-1) "@emotion/react": "^11.9.0",
-2) "@emotion/styled": "^11.8.1",
-3) "@mui/material": "^5.6.4",
-4) "@testing-library/jest-dom": "^5.16.4",
-5) "@testing-library/react": "^13.1.1",
-6) "@testing-library/user-event": "^13.5.0",
-7) "bootstrap": "^5.1.3",
-8) "glider-js": "^1.7.7",
-9) "nanoid": "^3.3.4",
-10) "react": "^18.1.0",
-11) "react-bootstrap": "^2.3.1",
-12) "react-dom": "^18.1.0",
-13) "react-elastic-carousel": "^0.11.5",
-14) "react-lifecycles-compat": "^3.0.4",
-15) "react-loading-spin": "^2.1.9",
-16) "react-minimal-side-navigation": "^1.9.2",
-17) "react-pro-sidebar": "^0.7.1",
-18) "react-redux": "^8.0.1",
-19) "react-router-dom": "^6.3.0",
-20) "react-scripts": "5.0.1",
-21) "react-slick": "^0.29.0",
-22) "redux": "^4.2.0",
-23) "slick-carousel": "^1.8.1",
-24) "styled-components": "^5.3.5",
-25) "web-vitals": "^2.1.4"2
+*This is a clone of e-commerce website **Nordstrom-rack**, an online shopping website with different category of Womens, Mens and Kids products.
+
+### Description 
+
+*Created a functional website for shopping different category of products.Where user can create account and login.
+*Implemented searching,view product description and buying functionalities with online payment options.
+*Need to login first to have access for the protected pages such as Purchases, Payment, Account Settings and so on.
+
+### Installation Requirements
+
+*Fork the repo, then clone it
+*install all dependencies, with **npm install**
+*start the server **npm start**
+
+### Technologies Used
+
+*ReactJs
+*HTML
+*CSS
+*JavaScript
+
+### Features included
+
+*Create account
+*login Page
+*Searching items
+*Product page
+*Add and Remove items to the bag
+*Checkout page
+
+### Screensort
+
+###### Home Page
+
+![Screenshot (20)](https://user-images.githubusercontent.com/100186167/168384003-beb91a7f-211e-410d-86b2-0e5ba0b081e6.png)
+![Screenshot (30)](https://![Screenshot (19)](https://user-images.githubusercontent.com/100186167/168384159-c1de47b7-ba12-4831-83f7-06ab0eceff5f.png)
+user-images.githubusercontent.com/100186167/168384032-2fe9e1e0-e107-433f-bb21-9ed7240bc024.png)
+
+###### Create account and login pages
+
+![Screenshot (31)](https://user-images.githubusercontent.com/100186167/168384384-0b596148-45b1-4be4-bd5c-f8ff7160f1ef.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/100186167/168384456-51d18440-74ce-47ba-8315-59a908591c9e.png)
+
+###### Protected Pages
+
+![Screenshot (36)](https://user-images.githubusercontent.com/100186167/168385013-8d709346-17b6-4070-8f56-6b03f8bbea76.png)
+
+###### Product Pages
+
+![Screenshot (33)](https://user-images.githubusercontent.com/100186167/168385198-814d6bd4-8271-4dea-ae96-66fe1379f289.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/100186167/168385357-7a623dc9-14d1-41da-a176-45be1e6bfe8e.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/100186167/168385475-72652cc8-089d-441d-8734-007dedecc5ea.png)
+
+###### Product Description and Bag pages
+
+![Screenshot (41)](https://user-images.githubusercontent.com/100186167/168386020-04e14d1e-f569-4438-b7e5-e252bfd3c171.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/100186167/168386081-38e6c25c-0711-49ce-8f12-fce355a2dd60.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/100186167/168386311-d915dcec-c58b-4892-b4b2-3200665c8f73.png)
+
+###### Checkout page
+
+![Screenshot (44)](https://user-images.githubusercontent.com/100186167/168386558-00d15bb0-1e1f-4ce2-a8e5-93bf96320f75.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/100186167/168386689-a2527e7d-051f-4167-bd43-6b83f18d4a0c.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/100186167/168386802-2e9885f8-8daa-4195-bff6-daa6b364a74d.png)
