@@ -1,42 +1,43 @@
 ## Nordstrom-rack Website Clone
 
-*This is a clone of e-commerce website **Nordstrom-rack**, an online shopping website with different category of Womens, Mens and Kids products.
+This is a clone of e-commerce website **Nordstrom-rack**, an online shopping website with different category of Womens, Mens and Kids products.
 
 ### Description 
 
-*Created a functional website for shopping different category of products.Where user can create account and login.
-*Implemented searching,view product description and buying functionalities with online payment options.
-*Need to login first to have access for the protected pages such as Purchases, Payment, Account Settings and so on.
+* Created a functional website for shopping different category of products.Where user can create account and login.
+* Implemented searching,view product description and buying functionalities with online payment options.
+* Need to login first to have access for the protected pages such as Purchases, Payment, Account Settings and so on.
 
 ### Installation Requirements
 
-*Fork the repo, then clone it
-*install all dependencies, with **npm install**
-*start the server **npm start**
+* Fork the repo, then clone it
+* install all dependencies, with **npm install**
+* start the server **npm start**
 
 ### Technologies Used
 
-*ReactJs
-*HTML
-*CSS
-*JavaScript
+* ReactJs
+* HTML
+* CSS
+* JavaScript
 
 ### Features included
 
-*Create account
-*login Page
-*Searching items
-*Product page
-*Add and Remove items to the bag
-*Checkout page
+* Create account
+* login Page
+* Searching items
+* Product page
+* Add and Remove items to the bag
+* Checkout page
 
 ### Screensort
 
 ###### Home Page
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/100186167/168384003-beb91a7f-211e-410d-86b2-0e5ba0b081e6.png)
-![Screenshot (30)](https://![Screenshot (19)](https://user-images.githubusercontent.com/100186167/168384159-c1de47b7-ba12-4831-83f7-06ab0eceff5f.png)
-user-images.githubusercontent.com/100186167/168384032-2fe9e1e0-e107-433f-bb21-9ed7240bc024.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/100186167/168387451-05ba3958-11f0-47df-8871-eba55854311d.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/100186167/168387781-ab8b3104-ece9-4017-8174-27e0156b2115.png)
+
 
 ###### Create account and login pages
 
@@ -64,3 +65,7 @@ user-images.githubusercontent.com/100186167/168384032-2fe9e1e0-e107-433f-bb21-9e
 ![Screenshot (44)](https://user-images.githubusercontent.com/100186167/168386558-00d15bb0-1e1f-4ce2-a8e5-93bf96320f75.png)
 ![Screenshot (45)](https://user-images.githubusercontent.com/100186167/168386689-a2527e7d-051f-4167-bd43-6b83f18d4a0c.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/100186167/168386802-2e9885f8-8daa-4195-bff6-daa6b364a74d.png)
+
+### Deployed site
+
+[Deployed Link of website](https://precious-lokum-c13ef5.netlify.app/)
